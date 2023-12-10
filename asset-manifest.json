@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/socialWebsite/static/css/main.d0aa5e91.css",
-    "main.js": "/socialWebsite/static/js/main.0abf1d18.js",
+    "main.js": "/socialWebsite/static/js/main.cf509e59.js",
     "static/js/787.c4e7f8f9.chunk.js": "/socialWebsite/static/js/787.c4e7f8f9.chunk.js",
     "static/media/support-hand.png": "/socialWebsite/static/media/support-hand.7da5146505e99c5ce1da.png",
     "static/media/hero-bg.png": "/socialWebsite/static/media/hero-bg.16a7a3feb93fb8855d3a.png",
@@ -43,11 +43,11 @@
     "static/media/cross.svg": "/socialWebsite/static/media/cross.55645bfdd0e5d9903be45697ac7d3957.svg",
     "static/media/ellipse.svg": "/socialWebsite/static/media/ellipse.e52b2ded349f1f0e968957d69d3aa16d.svg",
     "main.d0aa5e91.css.map": "/socialWebsite/static/css/main.d0aa5e91.css.map",
-    "main.0abf1d18.js.map": "/socialWebsite/static/js/main.0abf1d18.js.map",
+    "main.cf509e59.js.map": "/socialWebsite/static/js/main.cf509e59.js.map",
     "787.c4e7f8f9.chunk.js.map": "/socialWebsite/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0aa5e91.css",
-    "static/js/main.0abf1d18.js"
+    "static/js/main.cf509e59.js"
   ]
 }
